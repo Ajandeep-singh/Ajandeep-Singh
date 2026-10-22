@@ -34,4 +34,5 @@ Building stronger scientific software practices while studying quantum systems, 
 ## Connect
 
 - [GitHub](https://github.com/Ajandeep-singh)
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-handle/) — replace with your profile URL
+- [LinkedIn](https://www.linkedin.com/in/ajandeep-singh-a58909346)
+
