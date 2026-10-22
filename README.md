@@ -1,38 +1,60 @@
-﻿![Ajandeep Singh — Engineering Physics × Computational Science × Software](assets/profile-banner.svg)
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Ajandeep Singh — Engineering Physics, Computational Science, Software" width="100%" />
+</p>
 
-**B.Tech Engineering Physics, NIT Hamirpur · Expected 2028 · CGPA 7.71/10**
+<p align="center">
+  <strong>B.Tech Engineering Physics · NIT Hamirpur · Expected 2028</strong><br />
+  CGPA 7.71/10
+</p>
 
-## About me
+<p align="center">
+  I turn physical models into clear, reproducible software.<br />
+  My current projects explore quantum simulation and topological matter.
+</p>
 
-I’m interested in turning physical models into clear, reproducible software. My current work connects quantum simulation, computational physics, and numerical analysis.
+<p align="center">
+  <a href="https://github.com/Ajandeep-singh">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/ajandeep-singh-a58909346">LinkedIn</a>
+</p>
 
-## Selected work
+---
 
-### [QuantumSim-Cpp](https://github.com/Ajandeep-singh/QuantumSim-Cpp)
-A C++17 pure state-vector simulator with quantum gates, reusable circuits, measurement, and Bell/GHZ examples. The repository includes analytical and randomized validation tests, plus reproducible performance benchmarks.
+## Research & computational physics
 
 ### [SSH Topological Edge States Under Disorder](https://github.com/Ajandeep-singh/ssh-topological-edge-states)
-A Python study of finite SSH chains under hopping and on-site disorder. It includes seeded disorder sweeps, spectra and localization diagnostics, plots, raw data, and a research report. The reported edge-state measures are finite-chain diagnostics, not topological invariants.
+
+A Python study of edge-state candidates in finite SSH chains with hopping and on-site disorder. The project includes a fixed-seed 6,600-realization sweep, CSV data, spectra and localization plots, and a research report. Its edge-state measures are finite-chain diagnostics, not topological invariants.
+
+**Python · NumPy · Pandas · Matplotlib**
+
+## Scientific software
+
+### [QuantumSim-Cpp](https://github.com/Ajandeep-singh/QuantumSim-Cpp)
+
+A C++17 pure state-vector simulator with gate and circuit operations, measurement, and Bell/GHZ examples. It includes analytical and randomized validation tests and reproducible performance benchmarks.
+
+**C++17 · CMake · numerical validation · benchmarking**
 
 ## Technical toolkit
 
-- **Programming:** C++17, Python
-- **Scientific computing:** NumPy, Pandas, Matplotlib
-- **Build and workflow:** CMake, Git, PowerShell
-- **Methods:** state-vector simulation, Hamiltonian modeling, disorder ensembles, numerical validation, reproducible benchmarking
+<p align="center">
+  <code>C++17</code> <code>Python</code> <code>NumPy</code> <code>Pandas</code> <code>Matplotlib</code> <code>CMake</code> <code>Git</code> <code>PowerShell</code>
+</p>
 
-These are the tools and methods represented in my current public projects; I’m continuing to build depth through coursework and experiments.
+**Methods:** state-vector simulation · Hamiltonian modeling · disorder ensembles · numerical checks · reproducible experiments
 
-## GitHub activity
+## Repository language mix
 
-**Two featured public projects · C++ and Python.** Live contribution activity is available on my [GitHub profile](https://github.com/Ajandeep-singh). This README uses no third-party statistics cards, so it stays readable if external services are unavailable.
+<p align="center">
+  <img src="./assets/language-mix.svg" alt="GitHub-reported language bytes across the two featured project repositories: C++, Python, HTML, PowerShell, and CMake." width="100%" />
+</p>
+
+*GitHub-reported language bytes for the two featured projects, checked 22 October 2026. This describes tracked repository contents, not proficiency; the chart is a static snapshot.*
 
 ## Current focus
 
-Building stronger scientific software practices while studying quantum systems, topological matter, and computational methods in physics. I’m especially interested in research internships involving simulation, numerical modeling, or scientific programming.
+Building deeper scientific programming skills and exploring computational methods for quantum systems and topological matter. Interested in research internships involving simulation, numerical modeling, or scientific software.
 
-## Connect
+---
 
-- [GitHub](https://github.com/Ajandeep-singh)
-- [LinkedIn](https://www.linkedin.com/in/ajandeep-singh-a58909346)
-
+<p align="center"><sub>Engineering Physics × Computational Science × Software</sub></p>
